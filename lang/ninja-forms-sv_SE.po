@@ -1,7 +1,7 @@
 # This file is distributed under the same license as the Ninja Forms package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2014-07-17 18:22+0100\n"
+"PO-Revision-Date: 2014-07-18 20:59+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -538,35 +538,35 @@ msgstr ""
 
 #: includes/admin/pages/ninja-forms-settings/tabs/ajax-settings/ajax-settings.php:68
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/ajax-settings/ajax-settings.php:73
 #: includes/fields/hidden.php:58 includes/fields/textbox.php:131
 #: includes/fields/textbox.php:166
 msgid "Custom"
-msgstr ""
+msgstr "Egen"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/ajax-settings/ajax-settings.php:92
 #: includes/admin/pages/ninja-forms-settings/tabs/general-settings/general-settings.php:58
 #: includes/admin/pages/ninja-forms-settings/tabs/label-settings/label-settings.php:78
 msgid "Settings Saved"
-msgstr ""
+msgstr "Inställningar sparade"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/favorite-fields/favorite-fields.php:17
 msgid "Favorite Field Settings"
-msgstr ""
+msgstr "Favoritfält sparade"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/general-settings/general-settings.php:24
 msgid "General Settings"
-msgstr ""
+msgstr "Generella inställningar"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/general-settings/general-settings.php:29
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/general-settings/general-settings.php:35
 msgid "Date Format"
-msgstr ""
+msgstr "Datumformat"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/general-settings/general-settings.php:36
 msgid ""
@@ -574,42 +574,46 @@ msgid ""
 "en/function.date.php\" target=\"_blank\">PHP date() function</a> "
 "specifications, but not every format is supported."
 msgstr ""
+"ex. m/d/Y, d/m/y - Försök att följa <a href=\"http://www.php.net/manual/en/"
+"function.date.php\" target=\"_blank\">PHP date() funktionen</a>. Dock "
+"fungerar inte alla format."
 
 #: includes/admin/pages/ninja-forms-settings/tabs/general-settings/general-settings.php:41
 msgid "Currency Symbol"
-msgstr ""
+msgstr "Valutasymbol"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/general-settings/general-settings.php:42
 msgid "e.g. $, &pound;, &euro;"
-msgstr ""
+msgstr "ex. $, &pound;, &euro;"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/label-settings/label-settings.php:23
 msgid "Message Labels"
-msgstr ""
+msgstr "Meddelande etikett "
 
 #: includes/admin/pages/ninja-forms-settings/tabs/label-settings/label-settings.php:28
 msgid "Required Field Label"
-msgstr ""
+msgstr "Obligatorisk fältetikett"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/label-settings/label-settings.php:35
 msgid "Required field symbol"
-msgstr ""
+msgstr "Obligatorisk fältsymbol"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/label-settings/label-settings.php:40
 msgid "Error message given if all required fields are not completed"
 msgstr ""
+"Felmeddelande som visas om alla obligatoriska fält inte är komplett ifyllda"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/label-settings/label-settings.php:45
 msgid "Required Field Error"
-msgstr ""
+msgstr "Obligatorisk fält fel"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/label-settings/label-settings.php:51
 msgid "Anti-spam error message"
-msgstr ""
+msgstr "Anti-spam felmeddelande"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/label-settings/label-settings.php:57
 msgid "Please enter a valid email address"
-msgstr ""
+msgstr "Vänligen ange en godkänd e-postadress"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/label-settings/label-settings.php:63
 msgid "Ajax submitting message"
@@ -624,131 +628,131 @@ msgstr ""
 #: includes/admin/pages/ninja-forms-settings/tabs/license-settings/license-settings.php:7
 #: includes/admin/pages/ninja-forms-settings/tabs/license-settings/license-settings.php:22
 msgid "Licenses"
-msgstr ""
+msgstr "Licenser"
 
 #: includes/admin/pages/ninja-forms-settings/tabs/license-settings/license-settings.php:43
 msgid "Licenses Saved"
-msgstr ""
+msgstr "Licenser sparade"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:73
 msgid "View Form Submissions"
-msgstr ""
+msgstr "Visa formulär data som är sparad"
 
 #: includes/admin/pages/ninja-forms/tabs/form-list/form-list.php:171
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:150
 msgid "Export"
-msgstr ""
+msgstr "Exportera"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:160
 msgid "Submissions Per Page"
-msgstr ""
+msgstr "Sparad data per sida"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:164
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:526
 msgid "Download All Submissions"
-msgstr ""
+msgstr "Ladda ner all formulärdata"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:170
 msgid "Submission"
-msgstr ""
+msgstr "Formulärdata"
 
 #: includes/admin/admin.php:13
 #: includes/admin/pages/ninja-forms-impexp/tabs/impexp-subs/impexp-subs.php:6
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:170
 msgid "Submissions"
-msgstr ""
+msgstr "Förmulärdata"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:242
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:390
 #: includes/fields/textbox.php:164
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: includes/admin/pages/ninja-forms/tabs/form-list/form-list.php:169
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:282
 msgid "Edit"
-msgstr ""
+msgstr "Ändra"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:284
 msgid "Export to CSV"
-msgstr ""
+msgstr "Exportera till CSV"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:358
 msgid "No submissions found"
-msgstr ""
+msgstr "Ingen formulärdata funnen"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:409
 msgid "Back"
-msgstr ""
+msgstr "Tillbaka"
 
 #: includes/admin/pages/ninja-forms/tabs/form-list/form-list.php:88
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:152
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:503
 msgid "Apply"
-msgstr ""
+msgstr "Godkänn"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:514
 msgid "Submissions Deleted"
-msgstr ""
+msgstr "Formulärdata raderad"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:516
 msgid "Submission Deleted"
-msgstr ""
+msgstr "Formulärdata raderad"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:351
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/view-subs.php:567
 msgid "Save Sub"
-msgstr ""
+msgstr "Spara"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/sidebars/select-subs.php:58
 msgid "Select A Form"
-msgstr ""
+msgstr "Välj ett formulär"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/sidebars/select-subs.php:72
 msgid "Date Range"
-msgstr ""
+msgstr "Datum omfång"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/sidebars/select-subs.php:72
 msgid "Optional"
-msgstr ""
+msgstr "Ej obligatorisk"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/sidebars/select-subs.php:75
 msgid "Begin Date"
-msgstr ""
+msgstr "Startdatum"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/sidebars/select-subs.php:81
 msgid "End Date"
-msgstr ""
+msgstr "Slutdatum"
 
 #: includes/admin/pages/ninja-forms-subs/tabs/view-subs/sidebars/select-subs.php:87
 msgid ""
 "If both Begin Date and End Date are left blank, all submissions will be "
 "displayed."
-msgstr ""
+msgstr "Om både start- och slutdatum är tomma så visas all formulärdata."
 
 #: includes/display/scripts.php:216 includes/fields/password.php:127
 msgid "Strength indicator"
-msgstr ""
+msgstr "Styrkeindikator"
 
 #: includes/display/scripts.php:217
 msgid "Very weak"
-msgstr ""
+msgstr "Ej säkert"
 
 #: includes/display/scripts.php:218
 msgid "Weak"
-msgstr ""
+msgstr "Dålig säkerhet"
 
 #: includes/display/scripts.php:221
 msgid "Strong"
-msgstr ""
+msgstr "Säkert"
 
 #: includes/display/scripts.php:222
 msgid "Mismatch"
-msgstr ""
+msgstr "Stämmer inte"
 
 #: includes/display/form/required-label.php:16
 msgid "Fields marked with a * are required."
-msgstr ""
+msgstr "Fält markerade med en * är obligatoriska."
 
 #: includes/display/processing/email-add-fields.php:39
 #: includes/display/processing/email-add-fields.php:48
